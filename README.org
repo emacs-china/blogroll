@@ -1,0 +1,17 @@
+* blogroll
+
+Emacs China 搜集的周围朋友们的 Blog。
+
+** 添加方式
+
+在最下面一行添加 (相当于按时间顺序）
+
+ - 发 Issues
+ - 直接加
+ - Pull Request
+
+** Lists
+
+| Name | RSS | HTML |
+|------+-----+------|
+| 子龙山人 | https://zilongshanren.com/atom.xml | https://zilongshanren.com/ |
