@@ -17,3 +17,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | 子龙山人 | https://zilongshanren.com/atom.xml | https://zilongshanren.com/ |
 | M-x Chris-An-Emacser | https://chriszheng.science/atom.xml | https://chriszheng.science/ |
 | MacPlay | https://macplay.github.io/rss.xml | https://macplay.github.io/ |
+| ZMonster's Blog | http://www.zmonster.me/feed.html | http://www.zmonster.me/ |
