@@ -18,3 +18,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | M-x Chris-An-Emacser | https://chriszheng.science/atom.xml | https://chriszheng.science/ |
 | MacPlay | https://macplay.github.io/rss.xml | https://macplay.github.io/ |
 | ZMonster's Blog | http://www.zmonster.me/feed.html | http://www.zmonster.me/ |
+| PG's Blog | https://et2010.github.io/rss.xml | https://et2010.github.io/ |
