@@ -20,3 +20,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | ZMonster's Blog | http://www.zmonster.me/feed.html | http://www.zmonster.me/ |
 | PG's Blog | https://et2010.github.io/rss.xml | https://et2010.github.io/ |
 | Isaac’s Weblog | https://gujiaxi.com/feed.xml | https://gujiaxi.com/ |
+| Lady luck is smilin'. | https://ztlevi.github.io/atom.xml | https://ztlevi.github.io/ |
