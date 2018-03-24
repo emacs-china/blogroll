@@ -22,3 +22,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | Isaac’s Weblog | https://gujiaxi.com/feed.xml | https://gujiaxi.com/ |
 | Lady luck is smilin'. | https://ztlevi.github.io/atom.xml | https://ztlevi.github.io/ |
 | (power up) | http://kevinjiang.info/atom.xml | http://kevinjiang.info/ |
+| Tommy's Blog | http://tommyjiang.coding.me/atom.xml | http://tommyjiang.coding.me/ |
