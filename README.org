@@ -25,4 +25,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | Tommy's Blog | http://tommyjiang.coding.me/atom.xml | http://tommyjiang.coding.me/ |
 | ZenTalk | http://xiang578.com/atom.xml | http://xiang578.com |
 | Icarus’s wings | https://oracleyue.github.io/atom.xml | https://oracleyue.github.io/ |
-| casouri | https://casouri.github.io/ | https://casouri.github.io/index.xml |
+| casouri | https://casouri.github.io/index.xml | https://casouri.github.io/ |
