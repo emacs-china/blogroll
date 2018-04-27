@@ -27,3 +27,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | Icarus’s wings | https://oracleyue.github.io/atom.xml | https://oracleyue.github.io/ |
 | casouri | https://casouri.github.io/index.xml | https://casouri.github.io/ |
 | lambda 的博客 | | http://quanweili.com/ |
+| fidding blog | | http://www.fidding.me/ |
