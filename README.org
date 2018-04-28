@@ -29,3 +29,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | lambda 的博客 | | http://quanweili.com/ |
 | fidding blog | | http://www.fidding.me/ |
 | honmaple’s blog | https://honmaple.me/feeds/linux.rss.xml | https://honmaple.me |
+| stardiviner’s blog | https://stardiviner.github.io/Blog/index.xml | https://stardiviner.github.io/ |
