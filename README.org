@@ -28,3 +28,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | casouri | https://casouri.github.io/index.xml | https://casouri.github.io/ |
 | lambda 的博客 | | http://quanweili.com/ |
 | fidding blog | | http://www.fidding.me/ |
+| honmaple’s blog | https://honmaple.me/feeds/linux.rss.xml | https://honmaple.me |
