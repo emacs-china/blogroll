@@ -30,3 +30,4 @@ Emacs China 搜集的周围朋友们的 Blog。
 | fidding blog | | http://www.fidding.me/ |
 | honmaple’s blog | https://honmaple.me/feeds/linux.rss.xml | https://honmaple.me |
 | stardiviner’s blog | https://stardiviner.github.io/Blog/index.xml | https://stardiviner.github.io/ |
+| rekols's blog | https://blog.rekols.com/atom.xml | https://blog.rekols.com/
