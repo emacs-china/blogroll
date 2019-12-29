@@ -25,7 +25,7 @@ Emacs China 搜集的周围朋友们的 Blog。
 | Tommy's Blog | http://tommyjiang.coding.me/atom.xml | http://tommyjiang.coding.me/ |
 | ZenTalk | http://xiang578.com/atom.xml | http://xiang578.com |
 | Icarus’s wings | https://oracleyue.github.io/atom.xml | https://oracleyue.github.io/ |
-| casouri | https://archive.casouri.co.uk/note/index.xml | https://archive.casouri.co.uk/note/ |
+| casouri | https://archive.casouri.cat/note/rss.xml | https://archive.casouri.cat/note/ |
 | lambda 的博客 | | http://quanweili.com/ |
 | fidding blog | | http://www.fidding.me/ |
 | honmaple’s blog | https://honmaple.me/feeds/linux.rss.xml | https://honmaple.me |
